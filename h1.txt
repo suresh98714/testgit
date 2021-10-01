@@ -1,1 +1,2 @@
 This is h1.txt
+This new line text for h1.txt
